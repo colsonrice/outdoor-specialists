@@ -17,7 +17,7 @@ The finished static website is in `site/`. Edit `site/index.html`, `site/assets/
 
 `scripts/collect_assets.py` records assets from all five original pages, seven attachment pages, and the original theme stylesheet. `source/asset-manifest.json` records source URLs, dimensions, checksums, and failed legacy assets. The local `assets/originals/` directory preserves recovered originals. There are 14 full-size photographs/banners: 11 project photos and three old promotional banners. The photo gallery includes all 11 project photographs; the three banners with embedded promotional text are archived and have optimized copies in the assets folder. Original logo and thumbnail/theme assets are archived locally. Seven broken original references (five theme decorations and two dynamic sidebar thumbnail endpoints) are recorded in the manifest; the corresponding full-size sidebar photos were recovered successfully.
 
-Photos were optimized to WebP with EXIF orientation corrected; original content was not synthesized. The new OS typographic mark is a demo identity treatment, with the original logo preserved locally.
+Photos were optimized to WebP with EXIF orientation corrected; original content was not synthesized. The updated leaf medallion is inspired by the original oak-leaf icon, refined in forest and leaf greens. It is used in the header, footer, and favicon, with the original logo preserved locally.
 
 ## Demo boundaries
 
